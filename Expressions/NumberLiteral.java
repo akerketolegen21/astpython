@@ -1,4 +1,4 @@
-public class NumberLiteral implements Expression{
+public class NumberLiteral extends Expression{
     int value;
 
     public NumberLiteral(int value){

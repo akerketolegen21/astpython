@@ -1,6 +1,6 @@
+package Statements;
 import java.beans.Expression;
 import java.util.List;
-import Statements.Statement;
 
 public class IfStatement implements Statement {
     Expression condition;

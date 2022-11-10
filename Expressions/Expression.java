@@ -1,4 +1,4 @@
-public interface Expression extends ASTElement{
+public class Expression extends ASTElement{
     
 
     public Expression(){
